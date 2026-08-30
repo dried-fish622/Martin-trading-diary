@@ -1,4 +1,4 @@
-﻿# 公允价值缺口 FVG (Fair Value Gap)
+# 公允价值缺口 FVG (Fair Value Gap)
 
 > 三根 K 线之间的"不平衡区",价格倾向回补后再走
 

@@ -1,4 +1,4 @@
-﻿# 最优入场区 OTE (Optimal Trade Entry)
+# 最优入场区 OTE (Optimal Trade Entry)
 
 > 回撤 62%~79% 的"机构接单区"
 

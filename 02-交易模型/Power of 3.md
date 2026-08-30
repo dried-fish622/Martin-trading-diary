@@ -1,4 +1,4 @@
-﻿# Power of 3 (三力模型 / AMD)
+# Power of 3 (三力模型 / AMD)
 
 > 一天行情的本质:吸筹(Accumulation)→ 操纵(Manipulation)→ 派发/延续(Distribution)
 

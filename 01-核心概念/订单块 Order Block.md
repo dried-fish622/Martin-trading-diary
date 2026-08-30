@@ -1,4 +1,4 @@
-﻿# 订单块 Order Block (OB)
+# 订单块 Order Block (OB)
 
 > 机构订单留下的"脚印",价格倾向回踩它再启动
 

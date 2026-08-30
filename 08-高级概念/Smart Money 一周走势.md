@@ -1,4 +1,4 @@
-﻿# Smart Money 一周走势
+# Smart Money 一周走势
 
 > 机构如何用一周时间交付价格(IPDA 周线框架)
 

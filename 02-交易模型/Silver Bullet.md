@@ -1,4 +1,4 @@
-﻿# Silver Bullet (银弹)
+# Silver Bullet (银弹)
 
 > 伦敦/纽约开盘后 1~2 根 K 线内的定点狙击,不做等待
 
