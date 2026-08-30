@@ -1,4 +1,4 @@
-﻿# Propulsion Block
+# Propulsion Block
 
 > 延续结构:一根 K 回撤进既有 Order Block,然后立刻充当动态支撑/阻力,把价格推向下一目标
 
